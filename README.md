@@ -6,7 +6,7 @@ The workshop is composed of two parts. The first two days are dedicated to a [So
 
 The Software Carpentry workshops in Morelia and Koper covered
 * the basics of the [Unix shell](http://swcarpentry.github.io/shell-novice/),
-* [version control with Git](http://swcarpentry.github.io/git- novice/) and
+* [version control with Git](http://swcarpentry.github.io/git-novice/) and
 * [programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
 
 Ideally, Software Carpentry provides qualified instructors to teach these topics.
