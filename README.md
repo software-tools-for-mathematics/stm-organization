@@ -2,6 +2,8 @@
 
 The workshop is composed of two parts. The first two days are dedicated to a [Software Carpentry](https://software-carpentry.org/about/) workshop and to more general computer tools. The rest of the week (three days) are dedicated to more mathematical topics.
 
+It makes sense to also make it a [Sage Days](https://wiki.sagemath.org/Workshops) event.
+
 ## Software Carpentry
 
 The Software Carpentry workshops in Morelia and Koper covered
